@@ -5,7 +5,7 @@
  * https://github.com/jtsage/jquery-mobile-spinbox
  */
 
-define(['jquery'], function($)
+define(['jquery', 'jquerymobile'], function($, jqm)
 {
 	
 	(function($) {
